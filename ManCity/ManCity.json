@@ -1,0 +1,153 @@
+[
+    {
+      "_id": "ObjectId(\"6531ef73613cc1f2034a2073\")",
+      "name": "Ederson",
+      "country": "Brazil",
+      "position": "Goalkeeper",
+      "matches": 8,
+      "goals": 0,
+      "assists": 1,
+      "tackles": 1
+    },
+    {
+      "_id": "ObjectId(\"6531f04f613cc1f2034a2075\")",
+      "name": "Julian Alvarez",
+      "country": "Argentina",
+      "position": "Striker",
+      "matches": 8,
+      "goals": 3,
+      "assists": 3,
+      "tackles": 4
+    },
+    {
+      "_id": "ObjectId(\"6531f09e613cc1f2034a2077\")",
+      "name": "Kyle Walker",
+      "country": "England",
+      "position": "Right Back",
+      "matches": 8,
+      "goals": 0,
+      "assists": 1,
+      "tackles": 4
+    },
+    {
+      "_id": "ObjectId(\"6531f182613cc1f2034a2079\")",
+      "name": "Phil Foden",
+      "country": "England",
+      "position": "Right Winger",
+      "matches": 8,
+      "goals": 1,
+      "assists": 3,
+      "tackles": 7
+    },
+    {
+      "_id": "ObjectId(\"6531f1d1613cc1f2034a207b\")",
+      "name": "Erling Haaland",
+      "country": "Norway",
+      "position": "Striker",
+      "matches": 8,
+      "goals": 8,
+      "assists": 1,
+      "tackles": 0
+    },
+    {
+      "_id": "ObjectId(\"6531f257613cc1f2034a207f\")",
+      "name": "Nathan Ake",
+      "country": "Netherlands",
+      "position": "Centre Back",
+      "matches": 7,
+      "goals": 1,
+      "assists": 0,
+      "tackles": 7
+    },
+    {
+      "_id": "ObjectId(\"6531f2bb613cc1f2034a2081\")",
+      "name": "Manuel Akanji",
+      "country": "Switzerland",
+      "position": "Centre Back",
+      "matches": 7,
+      "goals": 0,
+      "assists": 0,
+      "tackles": 7
+    },
+    {
+      "_id": "ObjectId(\"6531f31b613cc1f2034a2083\")",
+      "name": "Matheus Nunes",
+      "country": "Portugal",
+      "position": "Central Midfielder",
+      "matches": 6,
+      "goals": 0,
+      "assists": 1,
+      "tackles": 4
+    },
+    {
+      "_id": "ObjectId(\"6531f3bb613cc1f2034a2087\")",
+      "name": "Josko Gvardiol",
+      "country": "Croatia",
+      "position": "Centre Back",
+      "matches": 6,
+      "goals": 0,
+      "assists": 0,
+      "tackles": 6
+    },
+    {
+      "_id": "ObjectId(\"6531f485613cc1f2034a2090\")",
+      "name": "Rodri",
+      "country": "Spain",
+      "position": "Defensive Midfielder",
+      "matches": 6,
+      "goals": 2,
+      "assists": 1,
+      "tackles": 8
+    },
+    {
+      "_id": "ObjectId(\"6533880cd713a2774d0581ae\")",
+      "name": "Mateo Kovacic",
+      "country": "Croatia",
+      "position": "Central Midfielder",
+      "matches": 5,
+      "goals": 0,
+      "assists": 0,
+      "tackles": 9
+    },
+    {
+      "_id": "ObjectId(\"65338886d713a2774d0581b2\")",
+      "name": "Jeremy Doku",
+      "country": "Belgium",
+      "position": "Right Winger",
+      "matches": 5,
+      "goals": 1,
+      "assists": 0,
+      "tackles": 6
+    },
+    {
+      "_id": "ObjectId(\"653388dbd713a2774d0581b6\")",
+      "name": "Bernardo SIlva",
+      "country": "Portugal",
+      "position": "Attacking Midfielder",
+      "matches": 5,
+      "goals": 1,
+      "assists": 1,
+      "tackles": 3
+    },
+    {
+      "_id": "ObjectId(\"65338952d713a2774d0581c6\")",
+      "name": "Jack Grealish",
+      "country": "England",
+      "position": "Left Winger",
+      "matches": 4,
+      "goals": 0,
+      "assists": 1,
+      "tackles": 1
+    },
+    {
+      "_id": "ObjectId(\"653389b3d713a2774d0581ca\")",
+      "name": "Rico Lewis",
+      "country": "England",
+      "position": "Left Back",
+      "matches": 4,
+      "goals": 0,
+      "assists": 0,
+      "tackles": 0
+    }
+  ]
+  
